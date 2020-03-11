@@ -1,7 +1,7 @@
 package com.qyd.play.designModel.factory.abstractfactory;
 
 /**
- * Created by qiuyd.
+ * Created by qyd.
  */
 public class AbstractFactoryTest {
 

@@ -1,10 +1,11 @@
 package com.qyd.play.designModel.factory.simplefactory;
 
-
 import com.qyd.play.designModel.factory.ICourse;
+import com.qyd.play.designModel.factory.JavaCourse;
+
 
 /**
- * Created by qiuyd.
+ * Created by qyd.
  */
 public class CourseFactory {
 

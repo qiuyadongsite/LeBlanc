@@ -1,11 +1,10 @@
 package com.qyd.play.designModel.factory.factorymethod;
 
 
-import com.qyd.play.designModel.factory.ICourse;
-import com.qyd.play.designModel.factory.PythonCourse;
+import com.qyd.play.designModel.factory.*;
 
 /**
- * Created by qiuyd.
+ * Created by qyd.
  */
 public class PythonCourseFactory implements ICourseFactory {
 

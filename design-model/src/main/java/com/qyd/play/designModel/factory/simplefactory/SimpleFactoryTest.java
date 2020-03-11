@@ -6,7 +6,7 @@ import com.qyd.play.designModel.factory.JavaCourse;
 
 /**
  * 小作坊式的工厂模型
- * Created by qiuyd.
+ * Created by qyd.
  */
 public class SimpleFactoryTest {
 
@@ -16,7 +16,7 @@ public class SimpleFactoryTest {
 //        course.record();
 
 //        ICourseFactory factory = new ICourseFactory();
-//        ICourse course = factory.create("com.gupaoedu.vip.pattern.factory.JavaCourse");
+//        ICourse course = factory.create("com.qyd.play.designModel.factory.JavaCourse");
 //        course.record();
 
         CourseFactory factory = new CourseFactory();

@@ -5,7 +5,7 @@ import com.qyd.play.designModel.factory.ICourse;
 
 /**
  * 工厂模型
- * Created by qiuyd.
+ * Created by qyd.
  */
 public interface ICourseFactory {
 

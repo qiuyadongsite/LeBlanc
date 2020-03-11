@@ -1,7 +1,7 @@
 package com.qyd.play.designModel.factory;
 
 /**
- * Created by qiuyd.
+ * Created by qyd.
  */
 public interface ICourse {
     /**

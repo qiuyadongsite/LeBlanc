@@ -9,6 +9,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>design-model</module>
+    <module>spring-learn</module>
   </modules>
   <packaging>pom</packaging>
 

@@ -24,9 +24,9 @@ public class DipTest {
 //        qiuyd.study();
 
 
-        //=====  V4  ========
+      /*  //=====  V4  ========
         qiuyd qiuyd = new qiuyd();
         qiuyd.setiCourse(new JavaCourse());
-        qiuyd.study();
+        qiuyd.study();*/
     }
 }

@@ -4,7 +4,7 @@ package com.qyd.play.designModel.factory.factorymethod;
 import com.qyd.play.designModel.factory.ICourse;
 
 /**
- * Created by qiuyd.
+ * Created by qyd.
  */
 public class FactoryMethodTest {
 
