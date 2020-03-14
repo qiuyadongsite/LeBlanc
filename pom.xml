@@ -10,6 +10,7 @@
   <modules>
     <module>design-model</module>
     <module>spring-learn</module>
+      <module>algorithm</module>
   </modules>
   <packaging>pom</packaging>
 
