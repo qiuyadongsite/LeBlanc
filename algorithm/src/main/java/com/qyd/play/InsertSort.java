@@ -1,7 +1,7 @@
 package com.qyd.play;
 
 /**
- * 插入排序：将前面的两个排序，后面的插入到这个前面的有序数组
+ * 直接插入排序：将前面的两个排序，后面的插入到这个前面的有序数组
  *O(n^2)
  */
 public class InsertSort extends AbstractSort {
