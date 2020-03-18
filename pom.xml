@@ -12,6 +12,7 @@
     <module>spring-learn</module>
       <module>algorithm</module>
       <module>dubbo-learn</module>
+    <module>web-learn</module>
   </modules>
   <packaging>pom</packaging>
 
