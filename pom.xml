@@ -13,6 +13,7 @@
       <module>algorithm</module>
       <module>dubbo-learn</module>
     <module>web-learn</module>
+      <module>springboot-learn</module>
   </modules>
   <packaging>pom</packaging>
 
