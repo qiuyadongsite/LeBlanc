@@ -6,5 +6,11 @@
       {{ product.name }}
     </a>
   </h3>
-  <!-- . . . -->
+  <button (click)="share()" (notify)="onNotify()">
+    Share
+  </button>
+
+  <app-product-alert
+    [product]="product">
+  </app-product-alert>
 </div>
