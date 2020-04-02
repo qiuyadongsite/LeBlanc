@@ -13,6 +13,7 @@ import { AppTopBarComponent } from './app-top-bar/app-top-bar.component';
 import { ProductAlertComponent } from './product-alert/product-alert.component';
 import { CartComponent } from './cart/cart.component';
 import { ShippingComponent } from './shipping/shipping.component';
+import { HeroListComponent } from './hero-list/hero-list.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -23,7 +24,8 @@ import { ShippingComponent } from './shipping/shipping.component';
     AppTopBarComponent,
     ProductAlertComponent,
     CartComponent,
-    ShippingComponent
+    ShippingComponent,
+    HeroListComponent
   ],
   imports: [
     BrowserModule,
